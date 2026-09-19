@@ -1,0 +1,13 @@
+# Binarios compilados
+editor/editor
+editor/editor_asan
+editor/editor_tsan
+editor/*.o
+compress/*.o
+shell/eafitOS
+shell/*.o
+
+# Otros artefactos comunes
+*.out
+*.log
+core
